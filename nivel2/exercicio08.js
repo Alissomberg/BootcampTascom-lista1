@@ -2,4 +2,4 @@
 
 let base = 6
 let altura = 9
-console.log(`Valor da base: ${base}\nValor da altura:${altura}\nÁrea:${base*altura/2}`)
+console.log(`Valor da base: ${base}\nValor da altura: ${altura}\nÁrea: ${base*altura/2}`)
