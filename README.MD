@@ -20,7 +20,11 @@ O objetivo desta etapa foi consolidar os pilares fundamentais da programação, 
 ## Como usar
 Com o Node.js instalado, siga os passos abaixo:
 
-1. Navegue até a pasta do nível desejado (ex: Nível 1):
-2. Abra um terminal na pasta escolhida e então digite:
+1. Abra o terminal e clone o repostiório utilizando: 
+```bash
+git clone https://github.com/Alissomberg/BootcampTascom-lista1.git
+``
+2. Navegue até a pasta do nível desejado (ex: Nível 1)
+3. Abra um terminal na pasta escolhida e então digite:
 ```bash 
 node nome-do-arquivo.js
